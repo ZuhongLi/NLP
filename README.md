@@ -1,2 +1,2 @@
 # NLP
-Simple NLP methods
+Simple NLP tools
